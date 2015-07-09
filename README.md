@@ -1,6 +1,5 @@
 ## UX
 http://luiscielak.github.io/ux/
----
 
 ### Data Visualization:
 - *topics*: fetching/getting data, parsing, filtering, storing, representing
